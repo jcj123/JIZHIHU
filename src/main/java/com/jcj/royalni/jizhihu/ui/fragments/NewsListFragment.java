@@ -33,7 +33,7 @@ public class NewsListFragment extends Fragment {
     public NewsListFragment() {
 
     }
-
+//aaa
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
